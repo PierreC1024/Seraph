@@ -1,0 +1,8 @@
+# Exclude virtual environment
+.venv
+
+# IDE
+.vscode
+
+# MacOS filesystem
+.DS_Store
